@@ -1,15 +1,19 @@
-/*Escriba un programa que utilize el m閠odo static getProperty() de la clase System para 
-obtener informaci髇 del sistema. La informaci髇 que se desea obtener es: versi髇 de Java, 
-sistema operativo y su versi髇*/
+/*Escriba un programa que utilize el m茅todo static getProperty() de la clase System para 
+obtener informaci贸n del sistema. La informaci贸n que se desea obtener es: versi贸n de Java, 
+sistema operativo y su versi贸n*/
 
 
 public class Ejercicio7  {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		 String javaVersion = System.getProperty("java.version");
+	        String osName = System.getProperty("os.name");
+	        String osVersion = System.getProperty("os.version");
+	        
+	        System.out.println("Java version: " + javaVersion);
+	        System.out.println("Operating system: " + osName);
+	        System.out.println("Operating system version: " + osVersion);
 		
-		System.out.println(System.getProperties());
 		
 		
 		
