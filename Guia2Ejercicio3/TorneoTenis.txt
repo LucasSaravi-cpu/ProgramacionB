@@ -1,0 +1,5 @@
+Copa Davis
+Argentina; Juan, 10, 25; Pablo, 180, 33; Pedro, 54, 28; Aldo, 74, 22
+Francia; Jean, 3, 28; Paul, 12, 24; Pierre, 61, 21; Gerard, 99, 34
+Italia; Gianni, 9, 29; Giuseppe, 19, 24; Luigi, 43, 26; Mario, 154, 33
+EEUU; John, 17, 26; Sean, 78, 23; Joe, 39, 22; Ronald, 8, 27
