@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE books SYSTEM "publications.dtd">
+<books>
+	<book id="_001" image="12345"> 
+        <title>Beginning XML, 4th Edition </title> 
+        <author>David Hunter</author> 
+        <copyright>2007</copyright> 
+        <publisher>Wrox</publisher> 
+        <isbn kind="10">0470114878</isbn> 
+        <country>USA</country>
+        <description>An introductory approach to the XML configuring and processing</description>
+    </book> 
+    <book id="_002"> 
+        <title>XML in a Nutshell, Third Edition</title> 
+        <author>O’Reilly Media, Inc</author> 
+        <copyright>2004</copyright> 
+        <publisher>O’Reilly Media, Inc.</publisher> 
+        <isbn kind="13">0596007647</isbn> 
+        <country>Argentina</country>        
+    </book> 
+    <book id="_003"> 
+        <title>Learning XML, Second Edition</title> 
+        <author>Erik Ray</author> 
+        <copyright>2003</copyright> 
+        <publisher>O’Reilly Media, Inc.</publisher> 
+        <isbn kind="10">0596004206</isbn> 
+        <country>UK</country>               
+    </book>  
+</books>

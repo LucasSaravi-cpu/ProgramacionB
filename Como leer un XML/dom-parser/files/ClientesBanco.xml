@@ -1,0 +1,41 @@
+<ListaClientes>
+	<Cliente>
+    	<id>1</id>
+ 	    <nombre>Mario Bros</nombre>
+	    <telefono>111-1111</telefono>
+		<saldo>300</saldo>
+		<movimientos>
+		    <movimiento>
+			   <fecha>2012-06-01</fecha>
+			   <tipo>Deposito</tipo>
+			   <importe>400</importe>
+			</movimiento>
+		    <movimiento>
+			   <fecha>2012-06-10</fecha>
+			   <tipo>Extraccion</tipo>
+			   <importe>100</importe>
+			</movimiento>
+		</movimientos>
+	</Cliente>
+	<Cliente>
+		<id>2</id>
+		<nombre>Juan</nombre>
+		<telefono>222-2222</telefono>
+		<saldo>400</saldo>
+		<movimientos>
+		    <movimiento>
+			   <fecha>2012-06-30</fecha>
+			   <tipo>Deposito</tipo>
+			   <importe>400</importe>
+			</movimiento>
+		</movimientos>
+	</Cliente>
+	<Cliente>
+		<id>3</id>
+		<nombre>Pedro</nombre>
+		<telefono>333-3333</telefono>
+		<saldo>0</saldo>
+		<movimientos>		    
+		</movimientos>
+	</Cliente>
+</ListaClientes>
