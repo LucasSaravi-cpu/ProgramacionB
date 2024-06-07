@@ -27,25 +27,25 @@ public class BancoIU {
 
 	                switch (opcion) {
 	                    case 1:
-	                        cliente.mostrarEstado();
+	                         System.out.println(cliente.toString());
 	                        break;
 	                    case 2:
 	                        System.out.println("Ingrese la cantidad a depositar: ");
 	                        double cantidadDeposito = scanner.nextDouble();
 	                        cliente.depositar(cantidadDeposito);
-	                        System.out.println("Depósito exitoso.");
+	                        System.out.println("DepÃ³sito exitoso.");
 	                        break;
 	                    case 3:
 	                        System.out.println("Ingrese la cantidad a extraer: ");
 	                        double cantidadExtraccion = scanner.nextDouble();
 	                        cliente.extraer(cantidadExtraccion);
-	                        System.out.println("Extracción exitosa.");
+	                        System.out.println("ExtracciÃ³n exitosa.");
 	                        break;
 	                    case 4:
 	                        System.out.println("Gracias por utilizar nuestros servicios. Hasta luego!");
 	                        break;
 	                    default:
-	                        System.out.println("Opción inválida.");
+	                        System.out.println("OpciÃ³n invÃ¡lida.");
 	                }
 	            } else {
 	                throw new PINErroneo();
