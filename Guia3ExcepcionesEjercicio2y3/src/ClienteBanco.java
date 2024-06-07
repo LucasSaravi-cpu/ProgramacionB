@@ -35,10 +35,11 @@ public class ClienteBanco {
 	        return PIN;
 	    }
 
-	    public void mostrarEstado() {
-	        System.out.println("Nombre: " + nombre);
-	        System.out.println("Saldo: " + saldo);
+	   @Override
+	   public String toString() {
+		return   nombre + "  saldo  " + saldo ;
 	    }
+
 	}
 
 
