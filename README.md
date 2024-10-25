@@ -5,11 +5,11 @@ Software utilizado : eclipse
 
 **Temas explicados e implementados en diversos ejercicios**
 
--Fundamentos de la POO
+**-Fundamentos de la POO**
 
 Principios generales de la POO Diferencias entre clases y objetos Declaración de clases Constructores y destructores Encapsulamiento Herencia, polimorfismo Sobrecarga de métodos Especificaciones de alcance: private, protected, public Relaciones entre Objetos: Asociación, Agregación, Composición
 
--Introducción a la Programación Orientada a Objetos en Java
+**-Introducción a la Programación Orientada a Objetos en Java**
 
 ● Encapsulamiento, Herencia, Polimorfismo
 
@@ -23,7 +23,7 @@ Principios generales de la POO Diferencias entre clases y objetos Declaración d
 
 ● API de Java: Tipos de Datos, Clase String, Arreglos y Matrices, Clases Contenedoras, Enumeraciones, Clases para Entrada/Salida, Serialización 
 
--Interfaces Gráficas 
+**-Interfaces Gráficas**
 
 **Componentes**
 
@@ -39,13 +39,13 @@ Principios generales de la POO Diferencias entre clases y objetos Declaración d
 
 • Gestores de Aspectos (Layouts): BorderLayout, FlowLayout, GridLayout, BoxLayout
 
--Tratamiento de errores y Excepciones
+**-Tratamiento de errores y Excepciones**
 
--Programación Multihilos
+**-Programación Multihilos**
 
--Conexión a Bases de Datos
+**-Conexión a Bases de Datos**
 
--Frameworks Java
+**-Frameworks Java**
 
 Introducción a Frameworks y herramientas más utilizados en Java: SpringBoot 
 
