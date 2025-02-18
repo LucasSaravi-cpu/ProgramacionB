@@ -11,7 +11,7 @@ Principios generales de la POO Diferencias entre clases y objetos Declaración d
 
 **-Introducción a la Programación Orientada a Objetos en Java**
 
-● Encapsulamiento, Herencia, Polimorfismo
+● Encapsulamiento, Herencia, Polimorfismo , abstracción
 
 ● Relaciones de Asociación, Agregación, Composición
 
